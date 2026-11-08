@@ -29,8 +29,6 @@
 2. 修改链接与按钮事件
 所有按钮的点击行为由 EventType 和 EventData 控制：
 
-修改加群链接：找到 EventData="https://qm.qq.com/q/FrIY6Mps0q"，把网址换成你的 QQ 群链接即可。
-
 刷新主页：EventType="刷新主页"。如果不想让点击刷新后弹窗提示，可以加上 EventData="任意字符"。
 
 弹出窗口：EventType="弹出窗口"，并在 EventData 里写上 标题|内容，即可弹出一个提示框。
