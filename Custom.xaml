@@ -3,7 +3,7 @@
      下列内容均基于 WPF 框架。你可以在继续之前先尝试自学 XAML 与 WPF 的基础，这能让你更轻松地理解下列内容。
      你也可以使用 Ctrl + F 快速查找。例如，若需要改变文本颜色，则搜索 “颜色” 即可。
 <local:MyImage Height="200" HorizontalAlignment="Center" Source="PCL/PCL/nahida.png" /> -->
-<local:MyCard Title="smile PCL Mainpage 小沐の整合包 小贴示" Margin="0,0,0,10" CanSwap="True" IsSwapped="True">
+<local:MyCard Title="smile PCL Mainpage 小沐の整合包 小贴示 Beta" Margin="0,0,0,10" CanSwap="True" IsSwapped="True">
 	<StackPanel Margin="20,20,20,20">
 
 		<!-- 上半部分：左文右图 -->
